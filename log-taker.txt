@@ -265,3 +265,12 @@
 2/17/2025 | 4:27:52 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 2/17/2025 | 4:27:52 AM | INFO | Trying to activate mining on-chain for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
 2/17/2025 | 4:27:58 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf07ca2b0544565ee2f6aed042f29fe8d05e1cdd29571744d9bdd0ffdb8117746 
+2/17/2025 | 8:30:53 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/17/2025 | 8:30:53 AM | INFO | Start process for wallet 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+2/17/2025 | 8:30:54 AM | INFO | Trying To Login for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+2/17/2025 | 8:30:55 AM | INFO | Login successful... 
+2/17/2025 | 8:30:55 AM | INFO | Trying to check user info... 
+2/17/2025 | 8:30:56 AM | INFO | User ID: 102522913 | Twitter: @nabilawidiani | Total Points: 96000 
+2/17/2025 | 8:30:56 AM | INFO | Trying to check user miner status... 
+2/17/2025 | 8:30:56 AM | INFO | Last mining time: 2/17/2025, 4:27:57 AM
+2/17/2025 | 8:30:56 AM | WARN | Mining already started, next mining time is: 2/18/2025, 4:27:57 AM
