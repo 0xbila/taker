@@ -5373,3 +5373,15 @@
 5/19/2025 | 4:34:31 AM | INFO | Trying to activate mining on-chain for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
 5/19/2025 | 4:34:32 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/19/2025 | 4:34:32 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 8:35:47 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 8:35:47 AM | INFO | Start process for wallet 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+5/19/2025 | 8:35:48 AM | INFO | Trying To Login for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+5/19/2025 | 8:35:48 AM | INFO | Login successful... 
+5/19/2025 | 8:35:48 AM | INFO | Trying to check user info... 
+5/19/2025 | 8:35:49 AM | INFO | User ID: 102522913 | Twitter: @nabilawidiani | Total Points: 2016000 
+5/19/2025 | 8:35:49 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 8:35:50 AM | INFO | Last mining time: 5/18/2025, 2:14:48 AM
+5/19/2025 | 8:35:50 AM | INFO | Trying to start Mining for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+5/19/2025 | 8:35:51 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 8:35:51 AM | INFO | Trying to activate mining on-chain for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+5/19/2025 | 8:36:02 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3efcbd6de56da95483b26e82dd0007069932363f034ad93f90d36bfd74c27e09 
