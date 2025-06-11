@@ -6670,3 +6670,15 @@
 6/11/2025 | 2:15:59 AM | WARN | Retrying... (0 attempts left) 
 6/11/2025 | 2:18:18 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/11/2025 | 2:18:18 AM | ERROR | Failed to retrieve nonce for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+6/11/2025 | 4:35:16 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/11/2025 | 4:35:16 AM | INFO | Start process for wallet 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+6/11/2025 | 4:35:17 AM | INFO | Trying To Login for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+6/11/2025 | 4:35:18 AM | INFO | Login successful... 
+6/11/2025 | 4:35:18 AM | INFO | Trying to check user info... 
+6/11/2025 | 4:35:18 AM | INFO | User ID: 102522913 | Twitter: @nabilawidiani | Total Points: 2496000 
+6/11/2025 | 4:35:18 AM | INFO | Trying to check user miner status... 
+6/11/2025 | 4:35:19 AM | INFO | Last mining time: 6/9/2025, 8:29:39 PM
+6/11/2025 | 4:35:19 AM | INFO | Trying to start Mining for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+6/11/2025 | 4:35:20 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/11/2025 | 4:35:20 AM | INFO | Trying to activate mining on-chain for wallet: 0x36Bbdb14973b254Db1292A660F4D030F20F79B5C 
+6/11/2025 | 8:35:21 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x02925dcb515b0f437acae01fd936bbf5b0a43774a01c3a9ac69549513e58ffa5 
